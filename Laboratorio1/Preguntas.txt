@@ -1,0 +1,11 @@
+¿Cuál es el punto más débil de PGP?
+Segun lo que encontre dice que organiza las claves en una base de datos por identificadores de clave
+cortos y trata las claves con el mismo identificador.
+
+¿Cuándo es conveniente utilizar solamente cifrado simétrico?
+Es que esa clave secreta llegue a todos los que la necesitan sin que nadie más la vea.
+
+¿En qué consiste el ciclo de vida del desarrollo de software seguro (etapa por etapa)?
+Debe parecerse más a entretejer los aspectos relacionados con la seguridad que a apilarlos uno detrás de otro. Es decir, en lugar de añadir una «fase de seguridad», estaríamos hablando de establecer un conjunto de prácticas recomendadas y herramientas que se puedan (y se deban) incluir en las fases del SDLC que ya existen.
+
+Requisitos, planificacion, diseño, implementacion, pruebas, mantenimiento.
